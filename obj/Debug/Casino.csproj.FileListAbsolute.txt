@@ -1,0 +1,7 @@
+C:\Users\Thabo\source\repos\Solid\Casino\bin\Debug\Casino.exe.config
+C:\Users\Thabo\source\repos\Solid\Casino\bin\Debug\Casino.exe
+C:\Users\Thabo\source\repos\Solid\Casino\bin\Debug\Casino.pdb
+C:\Users\Thabo\source\repos\Solid\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\Thabo\source\repos\Solid\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Thabo\source\repos\Solid\Casino\obj\Debug\Casino.exe
+C:\Users\Thabo\source\repos\Solid\Casino\obj\Debug\Casino.pdb
